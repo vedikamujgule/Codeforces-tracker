@@ -1,0 +1,19 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "<a><img src=\"https://github.com/agniutkarsh/GitHubGraduation-2021/blob/main/Screenshot%202021-09-15%20at%2011.44.40%20AM.png\" width=\"1000px\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedikamujgule/Codeforces-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedikamujgule/Codeforces-tracker/issues"
+  },
+  "homepage": "https://github.com/vedikamujgule/Codeforces-tracker#readme"
+}
